@@ -1,0 +1,10 @@
+extrair 
+
+python3 extractor.py // acostumar a conta com os termos ex "crypto" (rodar 3 vezes minimo)
+
+
+
+comentar
+
+python3 comenter.py
+
